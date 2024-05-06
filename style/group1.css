@@ -2,7 +2,7 @@
 
 body {
     /* background: linear-gradient(135deg, #1EC19F, #A941BB); */
-    background-image: url("assets/group1Background.png");
+    background-image: url("group1Background.png");
     background-size: 100% 100%;
     background-size: cover;
     background-repeat: no-repeat;
